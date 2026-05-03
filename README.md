@@ -6,7 +6,7 @@
 
 Aurekai integration surface for Airflow.
 
-Status: planned
+Status: active
 Type: workflow
 
 ## Core Template Set
